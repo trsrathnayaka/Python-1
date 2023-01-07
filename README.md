@@ -1,3 +1,3 @@
-#my-1st-python-progrm
+my-1st-python-progrm
 
-#convert 4(numbers) to four(word) program
+convert 4(numbers) to four(word) program
